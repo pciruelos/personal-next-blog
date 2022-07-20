@@ -21,7 +21,7 @@ Because NextJS makes building React apps easier - especially React apps that sho
 In this article, we'll dive into the core concepts and features NextJS has to offer:
 
 - File-based Routing
-- Built-in Page Pre-rendering
+- Built-in Page Pre-rendering   
 - Rich Data Fetching Capabilities
 - Image Optimization
 - Much More
