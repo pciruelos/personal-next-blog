@@ -15,7 +15,7 @@ export function getStaticProps() {
 
 return {
   props: {
-      posts: allPosts
+      posts: allPosts,
   },
 }
 }
