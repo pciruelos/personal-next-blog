@@ -1,7 +1,7 @@
 ---
-title: 'segundio post'
+title: 'How is this Blog Made it?'
 date: '2022-10-16'
-image: 2.jpg
+image: 2.png
 excerpt: NextJS is a the React framework for production - it makes building fullstack React apps and sites a breeze and ships with built-in SSR.
 isFeatured: true
 ---

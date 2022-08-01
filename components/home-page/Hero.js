@@ -7,8 +7,8 @@ function Hero() {
         <div className={classes.image}>
             <Image src="/images/site/1.png" alt="asd" width={300} height={300}/>
         </div>
-        <h1>hi, im pablo</h1>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, quo.</p>
+        <h1>Hi, im Pablo</h1>
+        <p>I am FullStack Developer based in Copenhague. passionate about programming.</p>
     </section>
   )
 }

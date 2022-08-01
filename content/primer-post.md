@@ -1,8 +1,8 @@
 ---
-title: PUTOS
+title: Welcome Post
 date: '2022-10-15'
-image: 1.jpg
-excerpt: Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam, reprehenderit velit. Officiis sunt quia explicabo itaque eos optio nisi assumenda reiciendis fugit impedit laboriosam autem aspernatur ipsum ipsam natus cupiditate minima nulla, tempora voluptas, quam pariatur cumque dolorum veniam. Quas.
+image: 1.png
+excerpt: Hello, this is my first post! im Pablo and i want you to join in this journey about art programming photography technology and more 
 isFeatured: true
 ---
 
